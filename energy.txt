@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 3 arvindbedi arvindbedi 4096 Oct 31 01:10 .
+drwxrwxr-x 3 arvindbedi arvindbedi 4096 Oct 30 10:56 ..
+-rw-rw-r-- 1 arvindbedi arvindbedi  123 Oct 30 11:00 calm
+-rw-rw-r-- 1 arvindbedi arvindbedi   31 Oct 30 10:56 climate
+-rw-rw-r-- 1 arvindbedi arvindbedi   46 Oct 30 11:23 difference
+-rw-rw-r-- 1 arvindbedi arvindbedi    0 Oct 31 01:12 energy
+-rw-rw-r-- 1 arvindbedi arvindbedi   18 Oct 30 23:14 energy.txt
+drwxrwxr-x 8 arvindbedi arvindbedi 4096 Oct 30 11:24 .git
+-rw-rw-r-- 1 arvindbedi arvindbedi  196 Oct 30 10:56 HelloWorld.java
+-rw-rw-r-- 1 arvindbedi arvindbedi  120 Oct 30 11:14 independence
+-rw-rw-r-- 1 arvindbedi arvindbedi   27 Oct 30 10:56 nagupurmatch
+-rw-rw-r-- 1 arvindbedi arvindbedi   31 Oct 30 10:56 README.md
+-rw-rw-r-- 1 arvindbedi arvindbedi   16 Oct 30 10:56 remotetolocal
+-rw-rw-r-- 1 arvindbedi arvindbedi  118 Oct 30 10:56 rohitsharma
